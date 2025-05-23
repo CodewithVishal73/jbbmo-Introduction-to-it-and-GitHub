@@ -10,7 +10,8 @@ Input:
    t, time period in years
    r, annual rate of interest
 Output
-   simpleinterest = p*t*r
+   simple interest = p*t*r
 ```
+*This line is added to create a commit for the assignment.*
 
 _© 2022 XYZ, Inc._
