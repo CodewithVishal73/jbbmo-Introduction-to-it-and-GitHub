@@ -12,5 +12,7 @@ Input:
 Output
    simpleinterest = p*t*r
 ```
+This project is part of GitHub cli
+
 
 _© 2022 XYZ, Inc._
